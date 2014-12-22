@@ -28,4 +28,4 @@ if (isAwesome) {
 }
 ```
 
-Conflict in Master!!
+Conflict!!
