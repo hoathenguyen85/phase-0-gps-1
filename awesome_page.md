@@ -27,3 +27,5 @@ if (isAwesome) {
 	return true;
 }
 ```
+
+Conflict!!
