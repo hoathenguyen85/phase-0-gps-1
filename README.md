@@ -34,7 +34,7 @@
 13.  git push
   * Finally pushing commits to Github 
 14.  git checkout -b add-command-log
-  *Made a new branch! and switches to the new branch as well.
+  * Made a new branch! and switches to the new branch as well.
 
 ###Release 2: Create a Feature Branch
 
