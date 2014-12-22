@@ -17,10 +17,9 @@
 | __Bold__ | \_\_Bold\_\_ | \_\_ or \*\* Around the phrase\(Note that the symbol is doubled\) |
 | __Bold and *Italic*__ | \_\_Bold and \*Italic\*\_\_ | You can mix \* and \_ |
 | ~~Strikethrough~~ | \~\~Strikethrough\~\~ | \~\~ Around the phrase |
-| @Glendalys | \@Glendalys | \@ Then Github username?  Just testing, I aoligize if this e-mails you! |
 | [Link](http://daringfireball.net/projects/markdown/syntax) | \[Link\]\(http://daringfireball.net/projects/markdown/syntax\) | \[\] Around label \(\) Around link |
 | #Header | \#Header | \# in front to show header level \#\# is level 2 and etc |
-| >Quotes | \>Quotes | \> in front to quote | 
+| > Quotes | \> Quotes | \> in front to quote | 
 
 ##Block Code
 
