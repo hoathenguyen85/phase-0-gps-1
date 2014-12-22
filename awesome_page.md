@@ -19,7 +19,6 @@
 | ~~Strikethrough~~ | \~\~Strikethrough\~\~ | \~\~ Around the phrase |
 | [Link](http://daringfireball.net/projects/markdown/syntax) | \[Link\]\(http://daringfireball.net/projects/markdown/syntax\) | \[\] Around label \(\) Around link |
 | #Header | \#Header | \# in front to show header level \#\# is level 2 and etc |
-| > Quotes | \> Quotes | \> in front to quote | 
 
 ##Block Code
 
