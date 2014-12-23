@@ -18,7 +18,7 @@
 | __Bold and *Italic*__ | \_\_Bold and \*Italic\*\_\_ | You can mix \* and \_ |
 | ~~Strikethrough~~ | \~\~Strikethrough\~\~ | \~\~ Around the phrase |
 | [Link](http://daringfireball.net/projects/markdown/syntax) | \[Link\]\(http://daringfireball.net/projects/markdown/syntax\) | \[\] Around label \(\) Around link |
-| #Header | \#Header | \# in front to show header level \#\# is level 2 and etc |
+| ^Look above | \#\#Markdown Table Reference | \# in front to show header level \#\# is level 2 and etc |
 
 ##Block Code
 
